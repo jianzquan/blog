@@ -1,7 +1,6 @@
 ---
 title: tags
-date: 2023-03-31 17:44:49
+date: 2019-07-19 16:40:27
 type: "tags"
-orderby: random
-order: 1
+layout: "tags"
 ---
