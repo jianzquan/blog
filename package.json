@@ -27,7 +27,7 @@
     "hexo-prism-plugin": "^2.3.0",
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^2.0.0",
-    "hexo-renderer-stylus": "^0.3.3",
+    "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^0.3.3",
     "hexo-tag-emojis-byhj": "^1.0.0",
     "hexo-theme-solitude": "^1.10.0",
