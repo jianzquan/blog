@@ -30,7 +30,7 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
     "hexo-tag-emojis-byhj": "^1.0.0",
-    "hexo-theme-solitude": "^1.10.0",
+    "hexo-theme-solitude": "^1.12.0",
     "hexo-wordcount": "^6.0.1",
     "highlight": "^0.2.4",
     "live2d-widget-model-shizuku": "^1.0.5",
